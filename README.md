@@ -19,6 +19,13 @@ The saliency maps have been created with slightly modified versions of:
 * Deepgaze II: https://deepgaze.bethgelab.org/ and
 * UNISAL: https://github.com/rdroste/unisal
 
+## Structure
+* `deepgaze_II`: extracted saliency maps
+* `unisal`: extracted saliency maps
+* `./calc_saliency.py`: calculates statistics of the saliency maps
+
+
+
 
 ## Acknowledgments
 
